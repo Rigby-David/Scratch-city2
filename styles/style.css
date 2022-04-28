@@ -97,3 +97,19 @@ footer {
     background-repeat: no-repeat;
     margin: 25px;
 }
+
+#ground {
+    height: 640px;
+    width: 430px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    margin: 25px;
+}
+
+#animal {
+    height: 640px;
+    width: 430px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    margin: 25px;
+}
