@@ -89,3 +89,11 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+
+#tree {
+    height: 640px;
+    width: 430px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    margin: 25px;
+}
