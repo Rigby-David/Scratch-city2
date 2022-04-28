@@ -7,7 +7,8 @@ const treeDiv = document.getElementById('tree');
 let treeCount = 0;
 // set event listeners
 treeElem.addEventListener('change', () => {
-
+    console.log('show', treeElem.value);
+    treeDiv.style.backgroundImage = `url('./assets/${treeElem.value}.jpg')`;
 }); 
   // get user input
   // use user input to update state 
