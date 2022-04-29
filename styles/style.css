@@ -119,3 +119,8 @@ footer {
     width: 200px;
     display: flex;
 }
+
+.grid {
+    display: grid;
+    grid-template-columns: 500px 500px 500px;
+}
