@@ -35,4 +35,5 @@ time, mark, audio, video {
 
 ol, ul {
 	list-style: none;
+	color: black;
 }

@@ -89,3 +89,38 @@ footer {
     background-color: var(--color3);
     box-shadow: var(--shadow);
 }
+
+#tree {
+    height: 640px;
+    width: 430px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    margin: 25px;
+}
+
+#ground {
+    height: 640px;
+    width: 430px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    margin: 25px;
+}
+
+#animal {
+    height: 640px;
+    width: 430px;
+    background-position: cover;
+    background-repeat: no-repeat;
+    margin: 25px;
+}
+
+.call-container {
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 500px 500px 500px;
+}
