@@ -113,3 +113,9 @@ footer {
     background-repeat: no-repeat;
     margin: 25px;
 }
+
+.call-container {
+    height: 200px;
+    width: 200px;
+    display: flex;
+}
